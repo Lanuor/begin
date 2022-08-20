@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+/*
+#mr-content{
+	width: 1200px;
+	height:540px;
+	border: #100965;
+	margin: 0 auto;
+	text-align: left;
+}
+*/
+.mr-top{
+	width: 1200px;
+	height: 45px;
+	border-bottom: 2px solid;
+	margin: 0 auto;
+}
+
+.mr-content .mr-block1 .mr-img{
+    width: 120px;
+    height: 178px;
+    padding: 30px 0 0 82px;
+	float: left;
+}
+.mr-content .mr-block1{
+    width: 287px;
+    height: 350px;
+    float: left;
+    margin-left: 10px;
+    background: white;
+}
+style="float: left"width="210"height="250"
